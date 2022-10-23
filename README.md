@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-Visit the API - [View API Records](https://aqueous-depths-69995.herokuapp.com/tasks)
+Visit the API - [View API Records](https://aqueous-depths-69995.herokuapp.com/tasks)  
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
